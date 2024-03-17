@@ -1,10 +1,11 @@
 import React from "react";
-import HeaderSection from "../"
+import HeaderSection from "../components/Layouts/HeaderSection";
+// import HeaderSection from "../components/Layouts/HeaderSection"
 
 const HomePage = () => {
   return (
     <div>
-      <HeaderSection   />
+      <HeaderSection/>
     </div>
   );
 };
