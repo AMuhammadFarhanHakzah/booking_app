@@ -1,8 +1,9 @@
+import { Container } from '@material-ui/core'
 import React from 'react'
 
 function HeroSectionOne() {
   return (
-    <div>HeroSectionOne</div>
+    <Container>Hello World</Container>
   )
 }
 
